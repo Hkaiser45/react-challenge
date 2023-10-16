@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "title": "Final Fantasy 17",
+        "description": "a New rpg FPS",
+        "price": "80 euro" ,
+        "image": "../image/ff16.webp",
+        "category": "videogame"
+    },
+    {
+        "id": "2",
+        "title": "ps6",
+        "description": "a new Playstation",
+        "price": "so expensive",
+        "image": "../image/ps5.jpg",
+        "category": "electronic"
+    },
+    {
+        "id": "3",
+        "title": "Steelseries ++",
+        "description":"a new headphones" ,
+        "price":"300 euro" ,
+        "image":"../image/casque.jpg" ,
+        "category":"electronic" 
+    }
+]
+ 

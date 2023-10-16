@@ -1,0 +1,25 @@
+
+.navbar{
+  display: flex;
+ flex-direction: row;
+ width: 600%;
+  
+ background-color: black;
+ color: blueviolet;
+
+
+};
+.cardlist{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: floralwhite;
+
+}
+
+.end{
+  display: flex;
+  width: 600%;
+  background-color: black;
+  color: blueviolet;
+
+};
