@@ -5,7 +5,7 @@ function CardList() {
     return <div>
         {data.map((element) =>
             <li key={element.id} className="card">
-                <Card
+                <Card className="card"
                     data={element}
                 />
             </li>

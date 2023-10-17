@@ -7,9 +7,10 @@ function NavBar() {
     };
 
     return (<nav>
-        <img src="image/vite.svg" alt="Logo" />
+        
         <h1>React Challenge</h1>
-        <p>shopping cart {add}</p>
+        <img className="cart" src="../image/cart.jpg" alt="Logo" />
+        <p>{add}</p>
     </nav>)
 }
 export default NavBar;

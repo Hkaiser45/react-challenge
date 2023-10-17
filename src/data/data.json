@@ -4,7 +4,7 @@
         "title": "Final Fantasy 17",
         "description": "a New rpg FPS",
         "price": "80 euro" ,
-        "image": "../image/ff16.webp",
+        "image": "../image/ps5.jpg",
         "category": "videogame"
     },
     {
@@ -20,7 +20,7 @@
         "title": "Steelseries ++",
         "description":"a new headphones" ,
         "price":"300 euro" ,
-        "image":"../image/casque.jpg" ,
+        "image":"../image/ps5.jpg" ,
         "category":"electronic" 
     }
 ]

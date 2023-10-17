@@ -1,25 +1,48 @@
-
+.body{
+  display: flex;
+  flex-direction: column;
+  
+}
 .navbar{
   display: flex;
- flex-direction: row;
- width: 600%;
-  
- background-color: black;
- color: blueviolet;
-
-
-};
+  justify-content: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: black;
+  color: blueviolet;
+}
 .cardlist{
-  display: flex;
-  flex-wrap: wrap;
+  display:grid;
+ grid-template-columns: 1fr 1fr 1fr;
   background-color: floralwhite;
+}
+.img{
+  border-radius: 0.5rem;
+  width: 100%;
+}
+.button{
+  display: flex;
+  margin-left: 35%;
+  background-color: black;
+  color: blueviolet;
+}
 
+.card{
+  border-radius: 1rem;
+  padding: 1rem;
+ margin: 3rem;
+ border: 3rem;
+ background-color: darkgray;
+ color: whitesmoke;
+ width: 60%;
 }
 
 .end{
   display: flex;
-  width: 600%;
+  justify-content: center;
   background-color: black;
   color: blueviolet;
 
-};
+}
+.cart{
+  width: 4%;
+}
